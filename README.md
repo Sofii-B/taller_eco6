@@ -1,2 +1,2 @@
-# taller_eco6
+# Derecho_eco6
 proyecto
